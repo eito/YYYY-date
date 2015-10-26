@@ -13,7 +13,7 @@ What does this mean? Basically, any day (starting with Sunday) in the week of Ja
 the same year as January 1. 
 So for December 29, 2014...Since January 1, 2015 is a Thursday, then all days from Dec 28, 29, 30, and 31 will report 2015 as the date.
 
-Example:
+Swift Example:
 ========
 
 ```swift
